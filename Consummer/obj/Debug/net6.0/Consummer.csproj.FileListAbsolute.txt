@@ -1,0 +1,17 @@
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\Consummer.csproj.AssemblyReference.cache
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\Consummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\Consummer.AssemblyInfoInputs.cache
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\Consummer.AssemblyInfo.cs
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\Consummer.csproj.CoreCompileInputs.cache
+C:\Scripts\csharp\RabbitMQ-App\Consummer\bin\Debug\net6.0\Consummer.exe
+C:\Scripts\csharp\RabbitMQ-App\Consummer\bin\Debug\net6.0\Consummer.deps.json
+C:\Scripts\csharp\RabbitMQ-App\Consummer\bin\Debug\net6.0\Consummer.runtimeconfig.json
+C:\Scripts\csharp\RabbitMQ-App\Consummer\bin\Debug\net6.0\Consummer.dll
+C:\Scripts\csharp\RabbitMQ-App\Consummer\bin\Debug\net6.0\Consummer.pdb
+C:\Scripts\csharp\RabbitMQ-App\Consummer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\Consummer.csproj.CopyComplete
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\Consummer.dll
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\refint\Consummer.dll
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\Consummer.pdb
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\Consummer.genruntimeconfig.cache
+C:\Scripts\csharp\RabbitMQ-App\Consummer\obj\Debug\net6.0\ref\Consummer.dll

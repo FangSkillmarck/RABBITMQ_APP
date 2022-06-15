@@ -1,0 +1,17 @@
+C:\Scripts\csharp\RabbitMQ-App\Producer\bin\Debug\net6.0\Producer.exe
+C:\Scripts\csharp\RabbitMQ-App\Producer\bin\Debug\net6.0\Producer.deps.json
+C:\Scripts\csharp\RabbitMQ-App\Producer\bin\Debug\net6.0\Producer.runtimeconfig.json
+C:\Scripts\csharp\RabbitMQ-App\Producer\bin\Debug\net6.0\Producer.dll
+C:\Scripts\csharp\RabbitMQ-App\Producer\bin\Debug\net6.0\Producer.pdb
+C:\Scripts\csharp\RabbitMQ-App\Producer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\Producer.csproj.AssemblyReference.cache
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\Producer.AssemblyInfoInputs.cache
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\Producer.AssemblyInfo.cs
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\Producer.csproj.CoreCompileInputs.cache
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\Producer.csproj.CopyComplete
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\Producer.dll
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\refint\Producer.dll
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\Producer.pdb
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\Producer.genruntimeconfig.cache
+C:\Scripts\csharp\RabbitMQ-App\Producer\obj\Debug\net6.0\ref\Producer.dll

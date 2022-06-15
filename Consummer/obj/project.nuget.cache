@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ttG1vgB4ihQi8knTgx48rTfmuoinkuYGeOWUw/+zJb6PNIG7nog9tcK1BzT5R3qmQuG6FX2EAt5WVDvcC6mJtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Scripts\\csharp\\RabbitMQ-App\\Consummer\\Consummer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fang\\.nuget\\packages\\rabbitmq.client\\6.3.1\\rabbitmq.client.6.3.1.nupkg.sha512",
+    "C:\\Users\\Fang\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Fang\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
